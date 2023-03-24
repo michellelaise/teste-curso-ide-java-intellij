@@ -29,18 +29,22 @@ class Livro {
     }
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+        
         this.name = name;
     }
 
     public Integer getNumPagina() {
+
         return numPagina;
     }
 
     public void setNumPagina(Integer numPagina) {
+
         this.numPagina = numPagina;
     }
 
